@@ -1,6 +1,7 @@
 **Cloud Detailed Notes**
 
 **What is Cloud Computing?**
+
 Cloud computing refers to the delivery of computing services—including servers, storage, databases, networking, software, and analytics—over the internet ("the cloud") to offer faster innovation, flexible resources, and economies of scale.
 
 **Types of Cloud Deployment Models**
@@ -100,7 +101,7 @@ A healthcare organization with patient records stored on-premises uses Google Cl
 
 **2. How would you optimize costs in a multi-cloud environment?**
 
-Answer: 
+**Answer:** 
 Cost optimization in a multi-cloud environment requires careful planning and monitoring. Here’s how:
 
 **1. Choose Cost-Effective Providers:**
@@ -151,6 +152,7 @@ A retail business uses AWS for product hosting and Google Cloud for analytics. T
 ⦁	Reduces costs compared to maintaining duplicate physical data centers.
 
 ⦁	Provides scalability to handle failovers.
+
 **Example:** 
 
 During a regional outage, the company’s primary data center in the US fails. Traffic is automatically redirected to its backup database in Europe, ensuring uninterrupted service.
