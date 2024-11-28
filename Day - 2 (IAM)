@@ -145,8 +145,4 @@ AWS Identity and Access Management (IAM) allows you to manage access to AWS reso
 1. Create an IAM User with limited permissions.
 2. Assign the user to a group with specific policies.
 3. Use roles for applications to securely access AWS resources.
-```
 
----
-
-If you want specific Markdown files for each step or further examples, let me know!
